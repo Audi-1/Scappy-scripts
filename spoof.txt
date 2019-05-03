@@ -1,0 +1,5 @@
+www.google.com. 127.0.0.1
+www.rediff.com. 127.1.1.1
+mail.google.com. 127.1.2.1
+www.facebook.com. 127.2.1.1
+
